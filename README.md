@@ -1,7 +1,7 @@
 
 ---
 
-# Rocket Browser (formally Firefox Lite)
+# Rocket Browser 
 Warning: This fork is very early in development, expect lots of bugs
 
 Getting Involved
