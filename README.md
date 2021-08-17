@@ -1,22 +1,8 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 # Rocket Browser (formally Firefox Lite)
-[![Build Status](https://app.bitrise.io/app/2bee753c3b6709ca/status.svg?token=wKSNHE4YO8gQHd2W_I0tNg&branch=master)](https://app.bitrise.io/app/2bee753c3b6709ca)
+Warning: This fork is very early in development, expect lots of bugs
 
 Getting Involved
 ----------------
